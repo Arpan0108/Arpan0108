@@ -1,8 +1,13 @@
+[![MasterHead](https://i.pinimg.com/originals/fb/c6/f3/fbc6f31bd3b84159470b973aca7e0f97.gif)](https://rishavchanda.io)
+
 <h1 align="center">Hi 👋, I'm Arpan Bhowmick</h1>
 <h3 align="center">Aspiring Data Scientist | MERN Stack Developer | Graphic Designer & Digital Artist 🎨 | Innovating with Data, Web, and Design 🌐🚀</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=arpan0108&label=Profile%20views&color=aa78d3&style=flat" alt="arpan0108" /> </p>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arpan0108" alt="arpan0108" /></a> </p>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
+
 
 - 🔭 I’m currently working on [Portfolio Website](https://arpanbhowmick0108.netlify.app/)
 
@@ -10,7 +15,7 @@
 
 - 🤝 I’m looking for help with **Contributing to impactful AI or web development projects.**
 
-- 👨‍💻 All of my projects are available at [https://arpanbhowmick0108.netlify.app/](https://arpanbhowmick0108.netlify.app/)
+<!-- 👨‍💻 All of my projects are available at [https://arpanbhowmick0108.netlify.app/](https://arpanbhowmick0108.netlify.app/)-->
 
 - 💬 Ask me about **MERN, Python, digital art, and creative problem-solving.**
 
@@ -20,9 +25,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/arpanbhowmick17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="arpanbhowmick17" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/arpan-bhowmick-419a00297" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arpan-bhowmick-419a00297" height="30" width="40" /></a>
+<a href="https://kaggle.com/arpan0108" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="arpan0108" height="30" width="40" /></a>
 <a href="https://instagram.com/just_arpan_things_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="just_arpan_things_" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/arpanbhowmick4266" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="arpanbhowmick4266" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/arpan0108" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="arpan0108" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -32,6 +40,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arpan0108&show_icons=true&theme=radical&locale=en" alt="arpan0108" /></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arpan0108&label=Profile%20views&color=0e75b6&style=flat" alt="arpan0108" /> </p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arpan0108&theme=dark" alt="arpan0108" /></p>
