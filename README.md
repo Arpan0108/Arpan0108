@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Arpan Bhowmick</h1>
 <h3 align="center">Aspiring Data Scientist | MERN Stack Developer | Graphic Designer & Digital Artist 🎨 | Innovating with Data, Web, and Design 🌐🚀</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arpan0108&label=Profile%20views&color=0e75b6&style=flat" alt="arpan0108" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arpan0108" alt="arpan0108" /></a> </p>
 
@@ -32,5 +31,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arpan0108&show_icons=true&theme=radical&locale=en&layout=compact" alt="arpan0108" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arpan0108&show_icons=true&theme=radical&locale=en" alt="arpan0108" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=arpan0108&label=Profile%20views&color=0e75b6&style=flat" alt="arpan0108" /> </p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arpan0108&theme=dark" alt="arpan0108" /></p>
