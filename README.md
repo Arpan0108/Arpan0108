@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/originals/fb/c6/f3/fbc6f31bd3b84159470b973aca7e0f97.gif)](https://rishavchanda.io)
+[![MasterHead](https://i.pinimg.com/originals/c2/2c/c8/c22cc88b41ec15f991044bf25cf8007c.gif)](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm Arpan Bhowmick</h1>
 <h3 align="center">Aspiring Data Scientist | MERN Stack Developer | Graphic Designer & Digital Artist 🎨 | Innovating with Data, Web, and Design 🌐🚀</h3>
